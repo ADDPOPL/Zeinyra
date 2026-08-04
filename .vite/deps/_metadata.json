@@ -1,0 +1,76 @@
+{
+  "hash": "0d3d022a",
+  "configHash": "ccc63b48",
+  "lockfileHash": "a098c608",
+  "browserHash": "659bb6b7",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1855b154",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "595ad9ea",
+      "needsInterop": true
+    },
+    "sonner": {
+      "src": "../../node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "133aec9c",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "d106ec03",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "673765cc",
+      "needsInterop": false
+    },
+    "wagmi": {
+      "src": "../../node_modules/wagmi/dist/esm/exports/index.js",
+      "file": "wagmi.js",
+      "fileHash": "d34a831e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "native-HWIHAEV7": {
+      "file": "native-HWIHAEV7.js"
+    },
+    "chunk-WFGK4XXF": {
+      "file": "chunk-WFGK4XXF.js"
+    },
+    "chunk-7R5FX3EM": {
+      "file": "chunk-7R5FX3EM.js"
+    },
+    "chunk-WC2QIIUP": {
+      "file": "chunk-WC2QIIUP.js"
+    },
+    "ccip-KZ4LLNB5": {
+      "file": "ccip-KZ4LLNB5.js"
+    },
+    "chunk-UW26RUAM": {
+      "file": "chunk-UW26RUAM.js"
+    },
+    "secp256k1-HUHVTQ6Y": {
+      "file": "secp256k1-HUHVTQ6Y.js"
+    },
+    "chunk-HINXOUHQ": {
+      "file": "chunk-HINXOUHQ.js"
+    },
+    "chunk-W57XQINX": {
+      "file": "chunk-W57XQINX.js"
+    },
+    "chunk-4MBMRILA": {
+      "file": "chunk-4MBMRILA.js"
+    }
+  }
+}
